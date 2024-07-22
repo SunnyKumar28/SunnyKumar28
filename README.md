@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Sunny Kumar
 - 👀 I’m interested in Artificial Intelligence 
 - 🌱 I’m currently learning Neural Network
-- 💞️ I’m looking to collaborate on Neural Network based projects
+- 💞️ I’m looking to collaborate on projects based on machine learning
 - 📫 How to reach me : sunnykr7506@gmail.com
 
 
