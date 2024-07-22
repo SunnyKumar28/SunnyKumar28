@@ -2,7 +2,7 @@
 - 👀 I’m interested in Artificial Intelligence 
 - 🌱 I’m currently learning Neural Network
 - 💞️ I’m looking to collaborate on Neural Network based projects
-- 📫 How to reach me : E-mail-sunnykr7506@gmail.com
+- 📫 How to reach me : sunnykr7506@gmail.com
 
 
 <!---
